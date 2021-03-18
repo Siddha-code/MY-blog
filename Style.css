@@ -1,0 +1,16 @@
+.home{
+    background-color: darkblue;
+    cursor: pointer
+    
+}
+.link{
+    
+}
+.links:hover{
+    background-color: royalblue;
+}
+body{
+    text-align: center;
+    background-color: chartreuse;
+    font-family: 'Chango', cursive;s
+}
